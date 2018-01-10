@@ -1,4 +1,4 @@
-# osstutorial
+# Open Soure Project Checklist
 A checklist to guide your on the creation of your Open Source Project
 # Glance
 * [ ] Name
